@@ -10,10 +10,15 @@ We compare **deep learning** and **traditional machine learning** approaches—i
 
 ## Repository Structure
 
-├── dataset/                  # Raw train/test data  
-├── EDA&DataProcessing/    # Exploratory analysis and feature engineering  
-├── models/                   # All model implementations (CNN, LSTM, SVM, XGB)  
 
+- **dataset/**  
+  Raw and preprocessed train/test data
+
+- **EDA&DataProcessing/**  
+  Exploratory analysis and feature engineering
+
+- **models/**  
+  All model implementations (CNN, LSTM, SVM, XGB)  
 
 ---
 
