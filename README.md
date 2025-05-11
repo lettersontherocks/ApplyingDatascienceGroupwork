@@ -39,7 +39,7 @@ We compare **deep learning** and **traditional machine learning** approaches—i
 
 ## Tools & Libraries
 
-- **Programming**: Python
+- **Programming**: Python (Jupyter notebooks)
 - **ML/DL Frameworks**: PyTorch, scikit-learn, XGBoost..
 - **Visualization**: Seaborn, Matplotlib
 
