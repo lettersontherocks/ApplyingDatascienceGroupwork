@@ -18,9 +18,8 @@ We compare **deep learning** and **traditional machine learning** approaches—i
   Exploratory analysis and feature engineering
 
 - **models/**  
-  All model implementations (CNN, LSTM, SVM, XGB)
-  Task 5 is a regression task, so it is handled separately in a subfolder
-  due to its distinct model type
+  All model implementations (CNN, LSTM, SVM, XGB)  
+  Task 5 is a regression task, so it is handled separately in a subfolder due to its distinct model type
 
 ---
 
